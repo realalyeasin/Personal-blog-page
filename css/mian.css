@@ -1,0 +1,28 @@
+@import "box.css";
+
+body {
+	background: black;
+}
+  @media only screen  and (max-device-width: 480px)
+  {
+    .box{
+       width:650px; 
+    }
+    
+  }	
+      hr{ border:3px solid yellow;
+      }
+	  
+	  h1 { 
+    
+	color: Navy;
+	background-color: Black;
+	width: 2px;
+    border: 5px black;	}
+	
+	p {
+  color: black;
+}
+.em {
+  color: Yellow;
+}

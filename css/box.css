@@ -1,0 +1,16 @@
+.box {
+  
+    background-color:Pink ;
+    width:600px;
+    position:absolute;
+    left:0;
+    right:0;
+    margin:auto;
+    padding:50px 100px 100px 100px;
+    overflow:auto;
+    border:6px solid yellow;
+    font-size:30px;
+    
+    
+    
+      }
